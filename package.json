@@ -1,0 +1,19 @@
+{
+  "name": "chvt",
+  "version": "0.1.0",
+  "author": "Andreas Fuchs <anduchs@gmail.com>",
+  "description": "Provides Functions to query and change VT",
+  "license": "LGPLv3",
+  "readmeFilename": "README.md",
+  "homepage": "http://github.com/anduchs/node.chvt",
+  "keywords": [
+    "chvt",
+    "vt",
+    "virtual terminal",
+    "ioctl"
+  ],
+  "main": "chvt.js",
+  "dependencies": {
+    "LLioctl": "0.1"
+  }
+}
